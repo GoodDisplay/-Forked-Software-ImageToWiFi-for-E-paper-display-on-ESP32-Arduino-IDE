@@ -48,35 +48,23 @@ ImageToWiFi支持多个设备同时在线管理，用户在此基础上可以零
 - [See the user manual online](https://www.good-display.com/companyfile/890.html) 
 <br/>
 
-HOW TO USE
-
 1. Software Preview
 <br/>
 <img src="https://www.good-display.com/repository/image/88862c48-637b-46f5-a780-83dcc0662501.jpg" />
 <br/>
-
-
- 
-
 2. Device Network Setting
-
 <br/>
 2.1 Query Local IP Address
 <br/>
 <img src="https://www.good-display.com/repository/image/c8f59a2a-3482-4aad-ac54-f48a060053cc.jpg" />
 <br/>
-
 Open ImageToWiFi software, and the status bar will automatically retrieve the IP address of the current computer. Through this, you can know the current network segment. The IP address in the following figure is 192.168.5.7, and the network segment is '5' (this network segment will be used when setting the device WiFi). Change the network segment in the software to 5. Display local computer IP address:
 <br/>
-
- 
 
 Set current network segment
 <br/>
 <img src="https://www.good-display.com/repository/image/ebdd98ba-98b0-4ed4-8f51-fe3bee6553a1.jpg" />
 <br/>
-
- 
 
 2.2 Install Arduino Program Editing Software
 <br/>
@@ -96,8 +84,6 @@ The operation steps are as follows:
 <img src="https://www.good-display.com/repository/image/d4a63e46-9365-4a99-9169-e457ffe1b0c6.jpg" />
 <br/>
 
- 
-
 5) Connect the Type-C interface of the development board to the computer with USB cable.
 <br/>
 6) Open Arduino.ino engineering document in the driver folder with Arduino 1.8.6.
@@ -105,7 +91,7 @@ The operation steps are as follows:
 <br/>
 <img src="https://www.good-display.com/repository/image/46a0ca16-5c3f-4c2c-bcf9-e6ffb69dc072.jpg" />
 <br/>
- 
+
 
 7) Set in 'tools'
 
@@ -129,7 +115,6 @@ Note: if the compiler prgmpts 'invalid library found' during program compilation
 
 <img src="https://www.good-display.com/repository/image/6eb59e36-5182-4ee7-8675-405c944c0be4.jpg" />
 <br/>
- 
 
 2.3 Device WiFi Setting 
 
@@ -139,7 +124,6 @@ The customer needs to put the WiFi user name, password, network segment and IP n
 <img src="https://www.good-display.com/repository/image/c1e93114-8808-4df2-9951-97d07e0428b9.jpg" />
 <br/>
 
- 
 
 3. Image Import   
 
@@ -150,7 +134,6 @@ Image import: click the "Open File" button, select the created image, and note t
 <img src="https://www.good-display.com/repository/image/666dbffa-1a21-4820-b62b-3caa1a03a672.jpg" />
 <br/>
 
- 
 
 4. Device Connection
 
@@ -160,7 +143,7 @@ Power the device. Generally, it is recommended that the power supply is above 5v
 
 <img src="https://www.good-display.com/repository/image/5f7248c7-8b0f-47e4-a89f-d0e9050e81e6.jpg" />
 <br/>
- 
+
 
 5. Data Transmission
 
