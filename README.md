@@ -154,3 +154,21 @@ Select the IP number to be sent and click "connect". When the data transmission 
 <img src="https://www.good-display.com/repository/image/de982230-89ac-4232-a38b-411e575d28f8.jpg" />
 <br/>
 
+
+
+
+# Vendor Shops
+[![image](https://ozrobotics.com/wp-content/uploads/2019/10/OzRobotics-2019.png)
+OZ Robotics Verified](https://ozrobotics.com/vendors/gooddisplay/)<br/> 
+
+<br/>
+
+
+
+
+
+
+[![image](https://assets.goodereader.com/blog/uploads/images/2022/10/06041513/goodeareader-logo-final-750x150.png.webp)
+GoodEreader Verified](https://goodereader.com/blog/vendor/epaperdisplay-eink-goodisplay)<br/> 
+
+
