@@ -156,23 +156,6 @@ Select the IP number to be sent and click "connect". When the data transmission 
 
 
 
-
-# Vendor Shops
-[![image](https://ozrobotics.com/wp-content/uploads/2019/10/OzRobotics-2019.png)
-OZ Robotics Verified](https://ozrobotics.com/vendors/gooddisplay/)<br/> 
-
-<br/>
-
-
-
-
-
-
-[![image](https://assets.goodereader.com/blog/uploads/images/2022/10/06041513/goodeareader-logo-final-750x150.png.webp)
-GoodEreader Verified](https://goodereader.com/blog/vendor/epaperdisplay-eink-goodisplay)<br/> 
-
-<br/>
-
 # SPECIAL OFFER FOR OUR PRODUCTS!<img src="https://img.alicdn.com/tfs/TB1OQux3hD1gK0jSZFsXXbldVXa-134-32.png" /> 
 - [Direct Link for AliExpress Online Store](https://goodisplay.aliexpress.com/store/top-rated-products/1100401572.html?spm=a2g0o.store_pc_topSellerIng.8148362.6.3b122f6c9QvdHT&origin=n&SortType=orders_desc) 
 <br/>Welcome to order products on AliExpress!!! Very good bargain!
