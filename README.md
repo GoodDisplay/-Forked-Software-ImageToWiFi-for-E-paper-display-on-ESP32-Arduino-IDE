@@ -3,6 +3,10 @@
 [See the original product page for more info](https://www.good-display.com/product/438.html) 
 <br/>
 
+# Product Demo Video
+https://twitter.com/i/status/1542377264012111872
+<br/>
+
 Product Gallery for the 12.48 inch E-paper module-GDP1248RW1
 ------------------------------------------------------------------------------------------------------------
 <img src="https://www.good-display.com/repository/image/5c221e38-e74e-4146-86fe-3836e185e16d.jpg_640xaf.jpg" />
