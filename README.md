@@ -172,3 +172,19 @@ Select the IP number to be sent and click "connect". When the data transmission 
 ![image](https://user-images.githubusercontent.com/57305534/209752673-fc672971-5e79-4a46-8b65-dd5edb4bc92d.png)
 
 
+
+
+# Expo Name: Global Sources Consumer Electronics Show 2023 2024
+
+<img src="https://www.good-display.com/repository/image/fae5c289-4f60-409d-be59-9289695f0b8d.jpg?t=1676452002982" />
+Date: October 11-14, 2023, April 11-14, 2024
+Venue: AsiaWorld-Expo, Hong Kong
+Booth: Hall 9,H02(2023 Autumn), Hall 9,G06(2024 Spring)
+
+We will look forward to meeting you there. If you have any questions, please do not hesitate to contact us. We will be more than happy to answer them for you.
+
+https://www.good-display.com/news/157.html
+
+
+
+<br/>
