@@ -172,12 +172,3 @@ Select the IP number to be sent and click "connect". When the data transmission 
 ![image](https://user-images.githubusercontent.com/57305534/209752673-fc672971-5e79-4a46-8b65-dd5edb4bc92d.png)
 
 
-<br/>
-
-# YOU MIGHT FIND SOME SURPRISE HERE ON OZ ROBOTICS<img src="https://ozrobotics.com/wp-content/uploads/2019/10/OzRobotics-2019.png" /> 
-- [Direct Link for OZ ROBOTICS](https://ozrobotics.com/vendors/gooddisplay/) 
-
-<br/>
-<br/>
-
-
